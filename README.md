@@ -31,7 +31,7 @@ A simple and responsive phone book application built using the MERN (MongoDB, Ex
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/phone-book-mern.git
+   https://github.com/venky-1710/PhoneBook-MERN-Stack.git
    cd phone-book-mern
    ```
 2. Install dependencies for backend:
